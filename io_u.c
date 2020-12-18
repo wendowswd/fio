@@ -1,6 +1,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <assert.h>
+#include <unvmfs.h>
 
 #include "fio.h"
 #include "verify.h"
